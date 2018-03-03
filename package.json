@@ -3,7 +3,8 @@
   "version": "1.4.14",
   "main": "lib/index.js",
   "bin": {
-    "hygen": "./lib/bin.js"
+    "hygen": "./lib/bin.js",
+    "hygen-ts": "./lib/bin.ts.js"
   },
   "scripts": {
     "standalone":
